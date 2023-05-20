@@ -7,7 +7,7 @@
   
   ---
    <div align="left">
-    <h4> Skills:</h4>
+    <h3> Skills:</h3>
 
   <div align="left">
     <h4> Programming Languages</h4>
