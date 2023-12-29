@@ -23,10 +23,9 @@ Under construction
 ## **Contact**
 
 <p>
-<a href="mailto:crbellor@unal.edu.co?Subject=Interest to reach you" target="_blank">
+<a href="mailto:crbellor@unal.edu.co?Subject=Interest in working with you" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="[https://www.linkedin.com/in/kevin-joven/](https://www.linkedin.com/in/cristian-eliecer-bello-reyes-46b1b91ba/)" target="_blank">
+<a href="https://www.linkedin.com/in/cristian-eliecer-bello-reyes-46b1b91ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
