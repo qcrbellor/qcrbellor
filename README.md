@@ -9,16 +9,14 @@
    <div align="left">
     <h3> Skills:</h3>
 
-  <div align="left">
-    <h4> Programming Languages</h4>
-    <div>
+## **Programming Languages**
       ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-      ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+      ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter logoColor=white)
       ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
       ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
       ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-     <div/>
-  <div align="left">
+
+    
     <h4> Frameworks</h4>
     <div>
       ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
