@@ -1,4 +1,4 @@
-## **Hi there 👋**
+# **Hi there 👋**
 
 I'm a quantum computing enthusiast, with a focus on quantum algorithms, error correction and quantum key distribution. Here you can find some of my work in these areas, plus some work in mathematics. Although much of my work is theoretical, you will also find some projects with practical applications.
 
