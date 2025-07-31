@@ -2,14 +2,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&&width=370&height=100&lines=Hi+%2C+I'm+Cristian+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-I'm a quantum computing enthusiast, with a focus on quantum algorithms, error correction and quantum key distribution. Here you can find some of my work in these areas, plus some work in mathematics. Although much of my work is theoretical, you will also find some projects with practical applications.
+I'm a quantum computing enthusiast, specializing in quantum optimization and quantum algorithms. Here you'll find some of my work in these areas, as well as my research in mathematics (categorical quantum circuits). While much of my work is theoretical, I also include projects with practical applications, along with some developments in machine learning and data science.
 
-Each repository has a progress percentage, always looking to complete it and open to your contributions. The #future is #quantum.
+The repositories show a percentage of progress, always aiming for completion and open to your contributions. The #future is #quantum.
 
 # **Interesting Repositories**
 
-- Qiskit Summer School 2025
-- Under construction
+- [Qiskit Global Summer School 2025](https://github.com/qcrbellor/qgss-2025)
+- [Hands On: VRP](https://github.com/qcrbellor/HandsOn-VRP)
+- [ICTP - Quantinuum Quantum Hackathon](https://github.com/qcrbellor/ICTP-Quantinuum-Quantum-Hackathon)
 
 ## 🔧 **Languages**
 
@@ -38,4 +39,4 @@ Each repository has a progress percentage, always looking to complete it and ope
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-Last Edited on: 16/07/2025
+Last Edited on: 31/07/2025
