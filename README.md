@@ -10,7 +10,7 @@ The repositories show a percentage of progress, always aiming for completion and
 
 - [Qiskit Global Summer School 2025](https://github.com/qcrbellor/qgss-2025)
 - [Hands On: VRP](https://github.com/qcrbellor/HandsOn-VRP)
-- [ICTP - Quantinuum Quantum Hackathon](https://github.com/qcrbellor/ICTP-Quantinuum-Quantum-Hackathon)
+- [ICTP - Quantinuum Quantum Hackathon](https://github.com/qcrbellor/ICTP-Quantinuum-Quantum-Hackathon) (filed!)
 
 ## 🔧 **Languages**
 
@@ -39,4 +39,4 @@ The repositories show a percentage of progress, always aiming for completion and
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-Last Edited on: 31/07/2025
+Last Edited on: 03/10/2025
