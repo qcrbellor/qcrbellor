@@ -4,19 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cristian-eliecer-bello-reyes-46b1b91ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:crbellor@unal.edu.co">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://bit.ly/crbellor">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=qcrbellor&style=flat&color=6E40C9" alt="Profile views"/>
-</p>
-
 ---
 
 ## About me
@@ -75,19 +62,13 @@ My work sits at the intersection of **quantum optimization**, **quantum algorith
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qcrbellor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcrbellor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <a href="https://www.linkedin.com/in/cristian-eliecer-bello-reyes-46b1b91ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:crbellor@unal.edu.co">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qcrbellor&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>The future is quantum.</i>
-</p>
+<p align="center"><i>The future is quantum.</i></p>
