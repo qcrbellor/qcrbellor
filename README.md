@@ -1,42 +1,93 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&&width=370&height=100&lines=Hi+%2C+I'm+Cristian+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Cristian+Bello+%F0%9F%91%8B;Quantum+Computing+Researcher;Mathematics+%26+AI+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
-I'm a quantum computing enthusiast, specializing in quantum optimization and quantum algorithms. Here you'll find some of my work in these areas, as well as my research in mathematics (categorical quantum circuits). While much of my work is theoretical, I also include projects with practical applications, along with some developments in machine learning and data science.
-
-The repositories show a percentage of progress, always aiming for completion and open to your contributions. The #future is #quantum.
-
-# **Interesting Repositories**
-
-- [Qiskit Global Summer School 2025](https://github.com/qcrbellor/qgss-2025)
-- [Hands On: VRP](https://github.com/qcrbellor/HandsOn-VRP)
-- [ICTP - Quantinuum Quantum Hackathon](https://github.com/qcrbellor/ICTP-Quantinuum-Quantum-Hackathon) (filed!)
-
-## 🔧 **Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🖥️ **Frameworks**
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-
-## 📚 **Libraries**
-
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-## 🔗 **Contact**
-
-<p>
-<a href="mailto:crbellor@unal.edu.co?Subject=Interest in working with you" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<a href="https://www.linkedin.com/in/cristian-eliecer-bello-reyes-46b1b91ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristian-eliecer-bello-reyes-46b1b91ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:crbellor@unal.edu.co">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://bit.ly/crbellor">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=qcrbellor&style=flat&color=6E40C9" alt="Profile views"/>
 </p>
-Last Edited on: 03/10/2025
+
+---
+
+## About me
+
+I'm a **Mathematics B.Sc. student** at Universidad Nacional de Colombia and **Co-founder of [QUANTA Research Group](https://github.com/QUANTA-Research-Group)**, focused on quantum computing research and applied AI.
+
+My work sits at the intersection of **quantum optimization**, **quantum algorithms**, and **machine learning** — from theoretical foundations (categorical quantum circuits) to practical implementations (VRP on quantum hardware, NLP classifiers, AI agents).
+
+- **Research:** Quantum optimization · Quantum algorithms · Categorical quantum circuits
+- **Applied:** AI agents · NLP classifiers · Operations research
+- **Currently:** IBM Qiskit Global Summer School 2025 · QUANTA research initiatives
+
+---
+
+## Tech Stack
+
+**Quantum Computing**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=flat&logo=Qiskit&logoColor=white)
+![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=flat&logo=nvidia&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-00B4D8?style=flat&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Data & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E20000?style=flat&logo=matplotlib&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [HandsOn-VRP](https://github.com/qcrbellor/HandsOn-VRP) | Quantum solution to the Vehicle Routing Problem — DAAD Workshop at RWTH Aachen & TU Berlin | CUDA-Q · Qiskit |
+| [ICTP–Quantinuum Hackathon](https://github.com/qcrbellor/ICTP-Quantinuum-Quantum-Hackathon) | Quantum algorithms for real-world applications — 18 global teams at ICTP | Qiskit · Python |
+| [ADIPA PAP Classifier](https://github.com/qcrbellor/adipa-pap-classifier) | LLM-powered classifier for psychological first-aid conversation phases | Claude API · FastAPI · Docker |
+| [EPM Agent](https://github.com/qcrbellor/epm-agent) | Natural-language AI agent for querying EPM water service interruptions | OpenAI · Python |
+| [Night Shift](https://github.com/qcrbellor/night-shift) | Corporate night-shift transport route optimizer — routes in under 3 minutes | Python · OR-Tools |
+| [QGSS 2025](https://github.com/qcrbellor/qgss-2025) | Solutions to IBM Qiskit Global Summer School 2025 labs | Qiskit · Jupyter |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qcrbellor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcrbellor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qcrbellor&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>The future is quantum.</i>
+</p>
